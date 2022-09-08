@@ -17,7 +17,7 @@ El proyecto hace uso de la librería Volley  para conexión por HTTP, por lo que
 Se utilizan webservices en php para procesar la query de SQL a una BD en MySQL y se recupera el resulset mediante un array JSON, el cual es procesado en la app através de objetos de la clase User(POJO).
 Todos los archivos del poryecto han sido verificados y el proyecto es completamente funional a septiembre de 2022. No obstante, le rescomiendo el siguiente vídeo de mi canal, en el que explico el proceso paso a paso: https://youtu.be/EzRZVsw70Rk
 
-Anque en la actualidad hay  muchos frameworks que hacen todo este trabajo; es bueno entneder cómo realizarlo manualmente.
+Anque en la actualidad hay  muchos frameworks que hacen todo este trabajo; es bueno entender cómo realizarlo manualmente.
 Espero que este proyecto le resulte útil.
 
  Cordialmente,
